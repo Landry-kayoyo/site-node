@@ -81,6 +81,10 @@ To set up the project locally:
 4. Commit and push your changes to your fork.
 5. Open a pull request with a description of your changes.
 
+## Screenshot
+
+https://imgur.com/a/yXB8dDy
+
 ## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for more details.
