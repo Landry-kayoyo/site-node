@@ -32,5 +32,5 @@ app.get('/#contact', (req, res) => {
 
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+  console.log(`Cette application tourne sur le port ${port}`)
 })
